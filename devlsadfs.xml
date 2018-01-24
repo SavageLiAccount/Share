@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><md:EntityDescriptor xmlns:md="urn:oasis:names:tc:SAML:2.0:metadata" ID="https___dev-ls-feature.int.bbpd.io_auth-saml_saml_SSO_alias__102_1" entityID="https://dev-ls-feature.int.bbpd.io/auth-saml/saml/SSO/alias/_102_1"><md:SPSSODescriptor AuthnRequestsSigned="true" WantAssertionsSigned="true" protocolSupportEnumeration="urn:oasis:names:tc:SAML:2.0:protocol"><md:Extensions><idpdisco:DiscoveryResponse xmlns:idpdisco="urn:oasis:names:tc:SAML:profiles:SSO:idp-discovery-protocol" Binding="urn:oasis:names:tc:SAML:profiles:SSO:idp-discovery-protocol" Location="https://dev-ls-feature.int.bbpd.io/auth-saml/saml/login/alias/_102_1?disco=true"/></md:Extensions><md:KeyDescriptor use="signing"><ds:KeyInfo xmlns:ds="http://www.w3.org/2000/09/xmldsig#"><ds:X509Data><ds:X509Certificate>MIICrTCCAZWgAwIBAgIBATANBgkqhkiG9w0BAQsFADAaMRgwFgYDVQQDEw9CbGFja2JvYXJkIFNB
+TUwwHhcNMTgwMTI0MDgxOTM3WhcNMjgwMTI0MDgxOTM3WjAaMRgwFgYDVQQDEw9CbGFja2JvYXJk
+IFNBTUwwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCBLSyln7svRmF5K2h2rWmzniaR
+HudxFkY4jwHKmre7cT1PXHCtC360yPg3nYdHIUjBcyUFNIzl7rCgJH02d0ap5JrcOUBVB/d96JxE
+Xrg80upYJLnxXfXPVXb8irKRSGIAkk0+KjIdJobtW/5l3AiKWit+7GGQcd3794FLMkPGlb6spl2N
+2Q+SfCgxkiTnGjJB3WA42DwmNH13z8p61UZlH33Sumilfa9sfR2GeQc7rYEHLMG6JrHVDZuf56bO
+yjcpsNHXTR0fJhvtDIRj25hsRNivgJAguKgoQXd6ZmVZtx+edNbejl8Y1pF4REcb2U0WFVaxUIpO
+kbkFXKnOvhSpAgMBAAEwDQYJKoZIhvcNAQELBQADggEBAEV0/Ix/beiM2A81jMr7DpZG9FIufzTl
+cPgkjU6mUUfQh9fluZzH/EkdfQm61gNhqd/3c0Vjwel5vvPDgiUkbeN5NNz6Y1F0GbSQmX4vrN8I
+rM1KQgcWnDdRQdsBx8hM9W+NVjZllVdPbTbvxE8nswaZgU6VXC6psQVbV5h446S6/Teu9pHARyEY
+8NZBPEIAQ9fQTE3SKLiPfNDVl2hrCz5rnflXCU6bQ/2NFOeeZMONfNcn2gK5D6Honm2/Hah8E9vJ
+LkwwZ1zgPJE9LrAcEgStkX/7+7perKDqtoPkQKgl3irunES+PZxDeKSAP3fazGAd4nECZklSyxj9
+4sZ0Lb4=</ds:X509Certificate></ds:X509Data></ds:KeyInfo></md:KeyDescriptor><md:KeyDescriptor use="encryption"><ds:KeyInfo xmlns:ds="http://www.w3.org/2000/09/xmldsig#"><ds:X509Data><ds:X509Certificate>MIICrTCCAZWgAwIBAgIBATANBgkqhkiG9w0BAQsFADAaMRgwFgYDVQQDEw9CbGFja2JvYXJkIFNB
+TUwwHhcNMTgwMTI0MDgxOTM3WhcNMjgwMTI0MDgxOTM3WjAaMRgwFgYDVQQDEw9CbGFja2JvYXJk
+IFNBTUwwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCBLSyln7svRmF5K2h2rWmzniaR
+HudxFkY4jwHKmre7cT1PXHCtC360yPg3nYdHIUjBcyUFNIzl7rCgJH02d0ap5JrcOUBVB/d96JxE
+Xrg80upYJLnxXfXPVXb8irKRSGIAkk0+KjIdJobtW/5l3AiKWit+7GGQcd3794FLMkPGlb6spl2N
+2Q+SfCgxkiTnGjJB3WA42DwmNH13z8p61UZlH33Sumilfa9sfR2GeQc7rYEHLMG6JrHVDZuf56bO
+yjcpsNHXTR0fJhvtDIRj25hsRNivgJAguKgoQXd6ZmVZtx+edNbejl8Y1pF4REcb2U0WFVaxUIpO
+kbkFXKnOvhSpAgMBAAEwDQYJKoZIhvcNAQELBQADggEBAEV0/Ix/beiM2A81jMr7DpZG9FIufzTl
+cPgkjU6mUUfQh9fluZzH/EkdfQm61gNhqd/3c0Vjwel5vvPDgiUkbeN5NNz6Y1F0GbSQmX4vrN8I
+rM1KQgcWnDdRQdsBx8hM9W+NVjZllVdPbTbvxE8nswaZgU6VXC6psQVbV5h446S6/Teu9pHARyEY
+8NZBPEIAQ9fQTE3SKLiPfNDVl2hrCz5rnflXCU6bQ/2NFOeeZMONfNcn2gK5D6Honm2/Hah8E9vJ
+LkwwZ1zgPJE9LrAcEgStkX/7+7perKDqtoPkQKgl3irunES+PZxDeKSAP3fazGAd4nECZklSyxj9
+4sZ0Lb4=</ds:X509Certificate></ds:X509Data></ds:KeyInfo></md:KeyDescriptor><md:SingleLogoutService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST" Location="https://dev-ls-feature.int.bbpd.io/auth-saml/saml/SingleLogout/alias/_102_1"/><md:SingleLogoutService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-Redirect" Location="https://dev-ls-feature.int.bbpd.io/auth-saml/saml/SingleLogout/alias/_102_1"/><md:NameIDFormat>urn:oasis:names:tc:SAML:1.1:nameid-format:emailAddress</md:NameIDFormat><md:NameIDFormat>urn:oasis:names:tc:SAML:2.0:nameid-format:transient</md:NameIDFormat><md:NameIDFormat>urn:oasis:names:tc:SAML:2.0:nameid-format:persistent</md:NameIDFormat><md:NameIDFormat>urn:oasis:names:tc:SAML:1.1:nameid-format:unspecified</md:NameIDFormat><md:NameIDFormat>urn:oasis:names:tc:SAML:1.1:nameid-format:X509SubjectName</md:NameIDFormat><md:AssertionConsumerService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST" Location="https://dev-ls-feature.int.bbpd.io/auth-saml/saml/SSO/alias/_102_1" index="0" isDefault="true"/><md:AssertionConsumerService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-Artifact" Location="https://dev-ls-feature.int.bbpd.io/auth-saml/saml/SSO/alias/_102_1" index="1"/></md:SPSSODescriptor></md:EntityDescriptor>
